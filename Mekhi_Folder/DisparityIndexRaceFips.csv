@@ -1,0 +1,501 @@
+Race,FIPS,Jurisdiction,Count Within Race,Overall Count,Race Proportion,Disparity Index
+Black,035,Carroll County,5345,32372,0.0088,18.7
+Black,173,Smyth County,7669,49545,0.0248,6.23
+Black,023,Botetourt County,5070,26861,0.0327,5.77
+Black,197,Wythe County,8749,51404,0.0297,5.72
+Black,191,Washington County,2554,30217,0.0152,5.57
+Black,163,Rockbridge County,7417,40668,0.033,5.52
+Black,171,Shenandoah County,4130,26550,0.0291,5.35
+Asian or Pacific Islander,113,Madison County,191,5853,0.0063,5.21
+Black,045,Craig County,45,2037,0.0045,4.93
+Black,021,Bland County,3096,16465,0.0398,4.72
+Black,085,Hanover County,33856,77358,0.0952,4.6
+Black,165,Rockingham County,6342,54861,0.0254,4.55
+Black,013,Arlington County,42626,99927,0.0968,4.41
+Asian or Pacific Islander,005,Alleghany County,194,14767,0.0031,4.24
+Hispanic,021,Bland County,652,16465,0.0099,4.01
+Black,169,Scott County,495,14489,0.0091,3.74
+Hispanic,173,Smyth County,3684,49545,0.0201,3.7
+Black,071,Giles County,516,8784,0.016,3.68
+Hispanic,023,Botetourt County,1705,26861,0.0175,3.62
+Hispanic,191,Washington County,1785,30217,0.0163,3.62
+Black,005,Alleghany County,2436,14767,0.047,3.51
+Hispanic,077,Grayson County,913,6881,0.0383,3.47
+Black,610,Falls Church city,1251,7537,0.0484,3.43
+Asian or Pacific Islander,173,Smyth County,852,49545,0.0051,3.38
+Black,570,Colonial Heights city,14476,25903,0.167,3.35
+Black,121,Montgomery County,5439,37861,0.043,3.34
+Black,155,Pulaski County,4785,29569,0.0505,3.21
+Black,161,Roanoke County,8130,40442,0.064,3.14
+Black,073,Gloucester County,3247,13337,0.0799,3.05
+Black,015,Augusta County,3289,23419,0.0466,3.02
+Hispanic,197,Wythe County,2109,51404,0.0139,2.95
+Hispanic,145,Powhatan County,615,9003,0.0232,2.95
+Black,775,Salem city,3393,14877,0.0777,2.94
+Black,127,New Kent County,8774,21604,0.1386,2.93
+Asian or Pacific Islander,157,Rappahannock County,109,4061,0.0096,2.79
+Black,187,Warren County,2695,19606,0.0496,2.77
+Black,145,Powhatan County,2282,9003,0.0919,2.76
+Hispanic,115,Mathews County,192,2569,0.0272,2.75
+Black,600,Fairfax city,1552,8994,0.0634,2.72
+Black,069,Frederick County,4189,32873,0.0473,2.69
+Black,043,Clarke County,1027,8391,0.0466,2.63
+Hispanic,111,Lunenburg County,724,5119,0.0539,2.63
+Hispanic,155,Pulaski County,1411,29569,0.0182,2.62
+Black,199,York County,10782,29868,0.1383,2.61
+Black,059,Fairfax County,88085,323016,0.1063,2.57
+Black,079,Greene County,1107,5902,0.0732,2.56
+Black,003,Albemarle County,7671,31008,0.097,2.55
+Asian or Pacific Islander,035,Carroll County,187,32372,0.0023,2.53
+Black,139,Page County,476,8477,0.0223,2.52
+Black,091,Highland County,30,1095,0.011,2.5
+Asian or Pacific Islander,163,Rockbridge County,753,40668,0.0074,2.49
+Hispanic,091,Highland County,28,1095,0.0105,2.43
+Black,113,Madison County,1282,5853,0.0927,2.36
+Black,141,Patrick County,834,6703,0.0526,2.36
+Hispanic,007,Amelia County,498,6637,0.0318,2.36
+Black,061,Fauquier County,5759,31805,0.0783,2.31
+Black,157,Rappahannock County,393,4061,0.0419,2.31
+Hispanic,067,Franklin County,1536,23139,0.0288,2.31
+Black,019,Bedford County,3618,21762,0.0721,2.31
+Hispanic,037,Charlotte County,292,5483,0.0231,2.3
+Black,099,King George County,4259,11555,0.1606,2.29
+Hispanic,063,Floyd County,292,4241,0.0301,2.29
+Black,830,Williamsburg city,10332,28661,0.1599,2.25
+Hispanic,075,Goochland County,831,12041,0.0309,2.23
+Black,093,Isle of Wight County,8460,16499,0.2322,2.21
+Asian or Pacific Islander,045,Craig County,7,2037,0.0016,2.2
+Black,530,Buena Vista city,369,3264,0.0516,2.19
+Hispanic,001,Accomack County,3515,17690,0.0914,2.17
+Black,107,Loudoun County,13221,76631,0.0809,2.13
+Asian or Pacific Islander,023,Botetourt County,448,26861,0.0078,2.13
+Black,063,Floyd County,182,4241,0.0203,2.12
+Black,185,Tazewell County,1518,22392,0.0323,2.1
+Asian or Pacific Islander,155,Pulaski County,409,29569,0.0067,2.07
+Black,101,King William County,1661,5272,0.1542,2.04
+Black,067,Franklin County,3711,23139,0.079,2.03
+Hispanic,143,Pittsylvania County,1016,18261,0.0276,2.02
+Hispanic,005,Alleghany County,477,14767,0.016,2.02
+Black,540,Charlottesville city,7152,19324,0.1839,2.01
+Black,810,Virginia Beach city,73946,181610,0.2026,2.01
+Hispanic,183,Sussex County,4012,61248,0.0329,1.99
+Asian or Pacific Islander,025,Brunswick County,1205,65544,0.0093,1.98
+Black,065,Fluvanna County,1709,5677,0.1525,1.97
+Hispanic,163,Rockbridge County,1627,40668,0.0204,1.96
+Hispanic,135,Nottoway County,829,8856,0.0479,1.96
+Hispanic,097,King and Queen County,353,5795,0.0313,1.95
+Black,137,Orange County,2905,11322,0.1326,1.94
+Black,510,Alexandria city,16284,36975,0.2276,1.93
+Black,011,Appomattox County,1920,5392,0.1855,1.92
+Asian or Pacific Islander,037,Charlotte County,30,5483,0.0029,1.91
+Black,031,Campbell County,4640,16406,0.148,1.91
+Hispanic,025,Brunswick County,3054,65544,0.0245,1.9
+Hispanic,133,Northumberland County,324,4489,0.0383,1.89
+Hispanic,139,Page County,348,8477,0.022,1.86
+Black,520,Bristol city,2363,20251,0.0627,1.86
+Hispanic,175,Southampton County,601,16025,0.0204,1.84
+Asian or Pacific Islander,183,Sussex County,514,61248,0.0046,1.84
+Hispanic,113,Madison County,346,5853,0.0323,1.83
+Asian or Pacific Islander,197,Wythe County,544,51404,0.0058,1.83
+Black,177,Spotsylvania County,16275,51139,0.1747,1.82
+Hispanic,085,Hanover County,4368,77358,0.0311,1.82
+Black,125,Nelson County,1335,6499,0.1139,1.8
+Hispanic,127,New Kent County,1392,21604,0.0363,1.78
+Black,175,Southampton County,9858,16025,0.3474,1.77
+Black,790,Staunton city,2326,11521,0.1143,1.77
+Hispanic,119,Middlesex County,212,4163,0.0291,1.75
+Black,550,Chesapeake city,52760,99418,0.3061,1.73
+Black,179,Stafford County,20120,58251,0.2001,1.73
+Hispanic,035,Carroll County,2146,32372,0.0385,1.72
+Hispanic,003,Albemarle County,3056,31008,0.0577,1.71
+Black,133,Northumberland County,1903,4489,0.2499,1.7
+Black,075,Goochland County,3206,12041,0.1576,1.69
+Black,143,Pittsylvania County,6598,18261,0.2149,1.68
+Asian or Pacific Islander,017,Bath County,23,2842,0.0048,1.68
+Hispanic,053,Dinwiddie County,3319,52783,0.0377,1.67
+Black,167,Russell County,194,10872,0.0107,1.66
+Black,115,Mathews County,360,2569,0.0846,1.66
+Black,750,Radford city,2178,14128,0.0933,1.65
+Black,041,Chesterfield County,54239,133859,0.2454,1.65
+Hispanic,161,Roanoke County,2202,40442,0.0331,1.65
+Black,710,Norfolk city,42839,62031,0.4209,1.64
+Black,007,Amelia County,2223,6637,0.2045,1.64
+Black,047,Culpeper County,4420,18512,0.1458,1.64
+Black,760,Richmond city,28199,36841,0.4689,1.63
+White,595,Emporia city,14186,27636,0.3146,1.63
+Hispanic,141,Patrick County,346,6703,0.0317,1.63
+Hispanic,043,Clarke County,871,8391,0.0638,1.63
+Black,680,Lynchburg city,13887,30458,0.2805,1.63
+Hispanic,121,Montgomery County,2128,37861,0.0347,1.62
+Hispanic,117,Mecklenburg County,2037,40416,0.0312,1.61
+Black,103,Lancaster County,1659,3623,0.284,1.61
+Black,109,Louisa County,3402,13585,0.1555,1.61
+Black,009,Amherst County,4964,16135,0.1911,1.61
+Black,053,Dinwiddie County,27188,52783,0.3222,1.6
+White,081,Greensville County,60556,100484,0.3776,1.6
+Black,087,Henrico County,68710,140404,0.3087,1.59
+Hispanic,019,Bedford County,816,21762,0.0237,1.58
+Black,700,Newport News city,18729,27686,0.4282,1.58
+Hispanic,089,Henry County,1805,19769,0.0579,1.58
+Black,033,Caroline County,11680,27299,0.2717,1.57
+Hispanic,029,Buckingham County,235,6176,0.0242,1.57
+Black,037,Charlotte County,2378,5483,0.2762,1.57
+Hispanic,083,Halifax County,494,14364,0.022,1.56
+Asian or Pacific Islander,109,Louisa County,137,13585,0.0065,1.56
+Hispanic,169,Scott County,332,14489,0.0147,1.56
+White,730,Petersburg city,8909,31903,0.1834,1.52
+Hispanic,109,Louisa County,686,13585,0.0333,1.52
+Black,119,Middlesex County,1042,4163,0.1662,1.51
+Asian or Pacific Islander,131,Northampton County,544,34829,0.0104,1.5
+Asian or Pacific Islander,520,Bristol city,274,20251,0.0092,1.47
+Asian or Pacific Islander,053,Dinwiddie County,651,52783,0.0084,1.47
+Black,117,Mecklenburg County,20470,40416,0.3456,1.47
+Hispanic,101,King William County,221,5272,0.0286,1.46
+Black,159,Richmond County,1850,4267,0.2965,1.46
+Hispanic,187,Warren County,1514,19606,0.0529,1.46
+Black,820,Waynesboro city,1865,9528,0.1343,1.46
+Hispanic,057,Essex County,480,8501,0.039,1.45
+Black,800,Suffolk city,21102,34262,0.4261,1.45
+Hispanic,079,Greene County,512,5902,0.0603,1.44
+Hispanic,015,Augusta County,1045,23419,0.0314,1.42
+Hispanic,520,Bristol city,715,20251,0.0249,1.42
+Hispanic,171,Shenandoah County,2751,26550,0.0735,1.41
+Asian or Pacific Islander,117,Mecklenburg County,476,40416,0.0084,1.4
+Black,083,Halifax County,7263,14364,0.3629,1.39
+Hispanic,041,Chesterfield County,17649,133859,0.0946,1.39
+Black,840,Winchester city,3485,22185,0.113,1.39
+Asian or Pacific Islander,171,Shenandoah County,409,26550,0.0111,1.39
+Black,630,Fredericksburg city,8452,25355,0.2412,1.38
+Hispanic,009,Amherst County,540,16135,0.0243,1.38
+Asian or Pacific Islander,191,Washington County,224,30217,0.0054,1.37
+Black,051,Dickenson County,44,6077,0.0053,1.36
+Black,149,Prince George County,14227,32117,0.3262,1.36
+Black,193,Westmoreland County,2840,8037,0.2611,1.35
+Black,089,Henry County,6009,19769,0.2262,1.34
+Black,097,King and Queen County,2033,5795,0.2619,1.34
+Hispanic,036,Charles City County,70,2908,0.0181,1.33
+Black,740,Portsmouth city,32694,46708,0.5449,1.28
+Black,153,Prince William County,45630,159875,0.2222,1.28
+Hispanic,193,Westmoreland County,701,8037,0.0688,1.27
+Hispanic,031,Campbell County,592,16406,0.0285,1.26
+Black,111,Lunenburg County,2181,5119,0.3386,1.26
+Asian or Pacific Islander,009,Amherst County,115,16135,0.0057,1.25
+Black,057,Essex County,3981,8501,0.3743,1.25
+Black,620,Franklin city,2677,3734,0.5749,1.25
+Hispanic,125,Nelson County,347,6499,0.043,1.24
+White,183,Sussex County,31362,61248,0.4129,1.24
+Hispanic,011,Appomattox County,124,5392,0.0189,1.22
+Hispanic,775,Salem city,646,14877,0.0357,1.22
+Asian or Pacific Islander,071,Giles County,62,8784,0.0058,1.22
+Hispanic,065,Fluvanna County,265,5677,0.0384,1.21
+Black,147,Prince Edward County,5285,13253,0.3284,1.21
+White,036,Charles City County,1578,2908,0.4475,1.21
+Asian or Pacific Islander,021,Bland County,114,16465,0.0057,1.21
+Black,135,Nottoway County,4183,8856,0.3933,1.2
+Black,650,Hampton city,48057,78031,0.5128,1.2
+Black,001,Accomack County,6105,17690,0.2879,1.2
+Hispanic,770,Roanoke city,4193,52287,0.067,1.2
+Hispanic,049,Cumberland County,154,3995,0.0322,1.2
+Black,770,Roanoke city,18131,52287,0.2946,1.18
+Hispanic,159,Richmond County,365,4267,0.0729,1.17
+Hispanic,033,Caroline County,1675,27299,0.0524,1.17
+Black,049,Cumberland County,1423,3995,0.305,1.17
+Asian or Pacific Islander,139,Page County,50,8477,0.0051,1.17
+Asian or Pacific Islander,127,New Kent County,304,21604,0.0122,1.15
+Hispanic,690,Martinsville city,725,9772,0.0645,1.15
+Asian or Pacific Islander,165,Rockingham County,610,54861,0.0098,1.14
+Black,029,Buckingham County,2341,6176,0.3372,1.12
+Black,131,Northampton County,13013,34829,0.3375,1.11
+Black,017,Bath County,152,2842,0.0485,1.1
+Black,590,Danville city,15183,26722,0.5153,1.1
+Black,181,Surry County,1389,3037,0.4154,1.1
+Hispanic,165,Rockingham County,4467,54861,0.0744,1.09
+White,107,Loudoun County,56040,76631,0.6704,1.09
+Hispanic,069,Frederick County,3305,32873,0.0932,1.08
+Black,690,Martinsville city,4950,9772,0.4745,1.07
+White,153,Prince William County,106295,159875,0.6238,1.07
+Asian or Pacific Islander,187,Warren County,273,19606,0.0132,1.05
+Asian or Pacific Islander,057,Essex County,102,8501,0.0116,1.03
+White,027,Buchanan County,8153,8271,0.9528,1.03
+White,105,Lee County,8414,8618,0.9452,1.03
+Black,077,Grayson County,405,6881,0.0574,1.02
+Black,670,Hopewell city,21218,47874,0.4348,1.02
+White,195,Wise County,18675,19831,0.9245,1.02
+Hispanic,081,Greensville County,2852,100484,0.0279,1.02
+Hispanic,071,Giles County,164,8784,0.0184,1.02
+White,670,Hopewell city,24464,47874,0.5041,1.01
+Black,640,Galax city,467,6588,0.07,1.01
+Hispanic,840,Winchester city,4103,22185,0.1826,1.01
+White,051,Dickenson County,6014,6077,0.9822,1.01
+Asian or Pacific Islander,015,Augusta County,152,23419,0.0065,1.0
+Hispanic,137,Orange County,626,11322,0.0555,1.0
+White,167,Russell County,10540,10872,0.9758,0.99
+White,017,Bath County,2611,2842,0.9291,0.99
+Black,025,Brunswick County,35459,65544,0.5477,0.99
+White,045,Craig County,1961,2037,0.9807,0.98
+White,185,Tazewell County,20799,22392,0.9477,0.98
+White,820,Waynesboro city,7513,9528,0.8071,0.98
+White,640,Galax city,5720,6588,0.8891,0.98
+White,059,Fairfax County,202114,323016,0.6468,0.97
+White,169,Scott County,13672,14489,0.9756,0.97
+White,750,Radford city,11714,14128,0.8577,0.97
+White,091,Highland County,1033,1095,0.9763,0.97
+Hispanic,093,Isle of Wight County,539,16499,0.0339,0.96
+Black,036,Charles City County,1243,2908,0.4442,0.96
+White,530,Buena Vista city,2833,3264,0.904,0.96
+White,630,Fredericksburg city,16339,25355,0.6754,0.95
+White,071,Giles County,8060,8784,0.9627,0.95
+Hispanic,167,Russell County,145,10872,0.014,0.95
+White,790,Staunton city,9114,11521,0.8348,0.95
+Hispanic,147,Prince Edward County,370,13253,0.0296,0.94
+White,139,Page County,7616,8477,0.9552,0.94
+Asian or Pacific Islander,610,Falls Church city,705,7537,0.0995,0.94
+White,181,Surry County,1573,3037,0.5519,0.94
+White,520,Bristol city,16921,20251,0.8983,0.93
+Hispanic,017,Bath County,58,2842,0.0219,0.93
+White,063,Floyd County,3766,4241,0.9554,0.93
+Black,195,Wise County,1062,19831,0.0578,0.93
+White,029,Buckingham County,3613,6176,0.6327,0.92
+White,770,Roanoke city,30463,52287,0.6325,0.92
+White,049,Cumberland County,2420,3995,0.6585,0.92
+White,025,Brunswick County,25488,65544,0.4239,0.92
+White,610,Falls Church city,5496,7537,0.7985,0.91
+White,590,Danville city,10920,26722,0.4489,0.91
+Asian or Pacific Islander,145,Powhatan County,49,9003,0.006,0.91
+White,157,Rappahannock County,3394,4061,0.9236,0.9
+White,147,Prince Edward County,7598,13253,0.6336,0.9
+Hispanic,195,Wise County,221,19831,0.0124,0.9
+Hispanic,157,Rappahannock County,160,4061,0.0438,0.9
+White,121,Montgomery County,29426,37861,0.8647,0.9
+Asian or Pacific Islander,033,Caroline County,277,27299,0.0113,0.9
+Asian or Pacific Islander,075,Goochland County,186,12041,0.0172,0.9
+White,141,Patrick County,5534,6703,0.9249,0.89
+Hispanic,103,Lancaster County,82,3623,0.0254,0.89
+White,115,Mathews County,2019,2569,0.881,0.89
+White,019,Bedford County,17278,21762,0.8956,0.89
+Hispanic,730,Petersburg city,1452,31903,0.0514,0.89
+White,131,Northampton County,19310,34829,0.6269,0.88
+White,191,Washington County,25733,30217,0.9672,0.88
+White,690,Martinsville city,4163,9772,0.484,0.88
+White,077,Grayson County,5600,6881,0.9248,0.88
+Hispanic,047,Culpeper County,1878,18512,0.1159,0.88
+White,015,Augusta County,18974,23419,0.9278,0.87
+White,119,Middlesex County,2911,4163,0.8009,0.87
+White,165,Rockingham County,45073,54861,0.9419,0.87
+Black,730,Petersburg city,21412,31903,0.7697,0.87
+White,125,Nelson County,4811,6499,0.8496,0.87
+White,067,Franklin County,17994,23139,0.8958,0.87
+White,061,Fauquier County,23999,31805,0.8703,0.87
+White,600,Fairfax city,5475,8994,0.7029,0.87
+Asian or Pacific Islander,181,Surry County,13,3037,0.005,0.86
+Asian or Pacific Islander,091,Highland County,6,1095,0.0064,0.86
+White,187,Warren County,15184,19606,0.9047,0.86
+White,047,Culpeper County,12582,18512,0.7944,0.86
+White,109,Louisa County,9372,13585,0.8081,0.85
+White,069,Frederick County,25403,32873,0.9054,0.85
+White,097,King and Queen County,3405,5795,0.6895,0.85
+White,009,Amherst County,10547,16135,0.7688,0.85
+White,005,Alleghany County,11644,14767,0.9275,0.85
+White,043,Clarke County,6463,8391,0.9064,0.85
+White,161,Roanoke County,30171,40442,0.8791,0.85
+White,650,Hampton city,27279,78031,0.4124,0.85
+White,810,Virginia Beach city,102794,181610,0.6738,0.84
+Hispanic,045,Craig County,27,2037,0.0158,0.84
+White,137,Orange County,7816,11322,0.8225,0.84
+White,155,Pulaski County,22831,29569,0.9228,0.84
+White,031,Campbell County,11154,16406,0.8151,0.83
+White,073,Gloucester County,9748,13337,0.8782,0.83
+White,775,Salem city,10848,14877,0.877,0.83
+Asian or Pacific Islander,097,King and Queen County,24,5795,0.005,0.83
+White,540,Charlottesville city,11348,19324,0.7074,0.83
+White,089,Henry County,12187,19769,0.7442,0.83
+White,079,Greene County,4279,5902,0.8758,0.83
+White,840,Winchester city,14945,22185,0.8142,0.83
+White,193,Westmoreland County,4562,8037,0.6921,0.82
+White,197,Wythe County,39831,51404,0.9456,0.82
+White,830,Williamsburg city,17292,28661,0.7365,0.82
+White,057,Essex County,3977,8501,0.5727,0.82
+Asian or Pacific Islander,125,Nelson County,40,6499,0.0076,0.81
+White,065,Fluvanna County,3722,5677,0.8069,0.81
+Hispanic,600,Fairfax city,1285,8994,0.1762,0.81
+Hispanic,181,Surry County,67,3037,0.0273,0.81
+White,021,Bland County,12563,16465,0.9425,0.81
+White,087,Henrico County,64716,140404,0.5702,0.81
+White,680,Lynchburg city,16307,30458,0.6628,0.81
+White,163,Rockbridge County,30729,40668,0.9355,0.81
+White,003,Albemarle County,20469,31008,0.8176,0.81
+White,179,Stafford County,33350,58251,0.7092,0.81
+White,075,Goochland County,7791,12041,0.8044,0.8
+Hispanic,199,York County,1653,29868,0.0688,0.8
+White,101,King William County,3360,5272,0.7936,0.8
+White,149,Prince George County,15500,32117,0.6028,0.8
+White,177,Spotsylvania County,30823,51139,0.7544,0.8
+White,113,Madison County,4041,5853,0.8688,0.79
+White,011,Appomattox County,3342,5392,0.7869,0.79
+White,035,Carroll County,24748,32372,0.9722,0.79
+White,510,Alexandria city,19372,36975,0.6669,0.79
+White,173,Smyth County,37204,49545,0.9568,0.78
+White,171,Shenandoah County,19444,26550,0.9359,0.78
+White,007,Amelia County,3928,6637,0.7645,0.77
+Asian or Pacific Islander,011,Appomattox County,16,5392,0.0038,0.77
+White,023,Botetourt County,19502,26861,0.9413,0.77
+Asian or Pacific Islander,081,Greensville County,538,100484,0.007,0.77
+White,145,Powhatan County,6078,9003,0.8801,0.77
+White,143,Pittsylvania County,10665,18261,0.762,0.77
+Asian or Pacific Islander,085,Hanover County,1147,77358,0.0194,0.76
+White,199,York County,17169,29868,0.7537,0.76
+White,135,Nottoway County,3885,8856,0.5753,0.76
+White,099,King George County,6851,11555,0.7788,0.76
+Asian or Pacific Islander,159,Richmond County,23,4267,0.0071,0.76
+White,083,Halifax County,6662,14364,0.6118,0.76
+White,103,Lancaster County,1884,3623,0.6899,0.75
+Hispanic,087,Henrico County,6269,140404,0.0597,0.75
+White,033,Caroline County,13697,27299,0.6717,0.75
+Asian or Pacific Islander,061,Fauquier County,409,31805,0.0173,0.74
+Asian or Pacific Islander,001,Accomack County,104,17690,0.008,0.74
+Asian or Pacific Islander,043,Clarke County,89,8391,0.0144,0.74
+Black,183,Sussex County,25298,61248,0.5613,0.74
+White,037,Charlotte County,2791,5483,0.6988,0.73
+Hispanic,149,Prince George County,2018,32117,0.0865,0.73
+Hispanic,177,Spotsylvania County,3967,51139,0.1072,0.72
+White,740,Portsmouth city,13579,46708,0.4019,0.72
+White,159,Richmond County,2058,4267,0.6675,0.72
+White,620,Franklin city,1043,3734,0.3887,0.72
+Hispanic,530,Buena Vista city,65,3264,0.0278,0.72
+White,041,Chesterfield County,65303,133859,0.6818,0.72
+White,800,Suffolk city,12718,34262,0.5211,0.71
+White,550,Chesapeake city,43307,99418,0.616,0.71
+White,133,Northumberland County,2297,4489,0.724,0.71
+Hispanic,590,Danville city,868,26722,0.047,0.69
+White,117,Mecklenburg County,17368,40416,0.6225,0.69
+White,013,Arlington County,51699,99927,0.75,0.69
+White,111,Lunenburg County,2219,5119,0.6291,0.69
+Black,595,Emporia city,12384,27636,0.6519,0.69
+White,001,Accomack County,8209,17690,0.6777,0.68
+Hispanic,540,Charlottesville city,752,19324,0.0581,0.67
+Asian or Pacific Islander,036,Charles City County,12,2908,0.0063,0.65
+Hispanic,061,Fauquier County,1897,31805,0.0916,0.65
+White,700,Newport News city,8730,27686,0.4865,0.65
+Asian or Pacific Islander,073,Gloucester County,77,13337,0.0089,0.65
+Hispanic,099,King George County,437,11555,0.0584,0.65
+White,127,New Kent County,11144,21604,0.8082,0.64
+White,053,Dinwiddie County,21377,52783,0.6478,0.63
+White,093,Isle of Wight County,7488,16499,0.7271,0.62
+Asian or Pacific Islander,111,Lunenburg County,11,5119,0.0034,0.62
+Asian or Pacific Islander,143,Pittsylvania County,57,18261,0.005,0.62
+Hispanic,131,Northampton County,2020,34829,0.0946,0.61
+Hispanic,073,Gloucester County,308,13337,0.0378,0.61
+Black,081,Greensville County,36470,100484,0.6019,0.6
+Hispanic,570,Colonial Heights city,1004,25903,0.0655,0.59
+White,710,Norfolk city,18070,62031,0.4933,0.59
+Hispanic,179,Stafford County,4833,58251,0.1418,0.59
+Asian or Pacific Islander,670,Hopewell city,429,47874,0.0154,0.58
+Asian or Pacific Islander,067,Franklin County,63,23139,0.0047,0.58
+Hispanic,107,Loudoun County,6143,76631,0.1391,0.58
+White,085,Hanover County,38149,77358,0.8596,0.57
+Hispanic,105,Lee County,97,8618,0.0197,0.57
+White,175,Southampton County,5537,16025,0.6229,0.55
+Hispanic,750,Radford city,234,14128,0.0301,0.55
+Asian or Pacific Islander,169,Scott County,15,14489,0.0019,0.54
+White,570,Colonial Heights city,10379,25903,0.7564,0.53
+Hispanic,595,Emporia city,941,27636,0.0647,0.53
+Hispanic,550,Chesapeake city,3433,99418,0.0663,0.52
+Asian or Pacific Islander,175,Southampton County,42,16025,0.0051,0.51
+Hispanic,640,Galax city,535,6588,0.1629,0.5
+Asian or Pacific Islander,119,Middlesex County,10,4163,0.0048,0.5
+Asian or Pacific Islander,730,Petersburg city,183,31903,0.0115,0.5
+Asian or Pacific Islander,007,Amelia County,20,6637,0.0061,0.5
+Hispanic,185,Tazewell County,122,22392,0.0114,0.48
+Hispanic,650,Hampton city,2321,78031,0.0622,0.48
+Hispanic,027,Buchanan County,35,8271,0.0089,0.48
+Asian or Pacific Islander,149,Prince George County,333,32117,0.0218,0.48
+Hispanic,830,Williamsburg city,957,28661,0.0715,0.47
+Asian or Pacific Islander,600,Fairfax city,791,8994,0.1886,0.47
+Asian or Pacific Islander,047,Culpeper County,146,18512,0.017,0.47
+Hispanic,059,Fairfax County,24626,323016,0.1652,0.46
+White,760,Richmond city,8078,36841,0.4772,0.46
+Asian or Pacific Islander,101,King William County,27,5272,0.0113,0.46
+Asian or Pacific Islander,029,Buckingham County,12,6176,0.0043,0.45
+Hispanic,670,Hopewell city,1805,47874,0.085,0.44
+Asian or Pacific Islander,069,Frederick County,255,32873,0.0176,0.44
+Asian or Pacific Islander,133,Northumberland County,10,4489,0.0051,0.43
+Asian or Pacific Islander,093,Isle of Wight County,70,16499,0.0098,0.43
+Asian or Pacific Islander,650,Hampton city,807,78031,0.0244,0.42
+Hispanic,051,Dickenson County,27,6077,0.0105,0.42
+Asian or Pacific Islander,177,Spotsylvania County,609,51139,0.0283,0.42
+Asian or Pacific Islander,141,Patrick County,9,6703,0.0034,0.4
+Asian or Pacific Islander,121,Montgomery County,957,37861,0.0634,0.4
+Asian or Pacific Islander,063,Floyd County,9,4241,0.0053,0.4
+Asian or Pacific Islander,079,Greene County,46,5902,0.0199,0.39
+Asian or Pacific Islander,019,Bedford County,105,21762,0.0123,0.39
+Asian or Pacific Islander,135,Nottoway County,19,8856,0.0056,0.38
+Asian or Pacific Islander,049,Cumberland County,7,3995,0.0046,0.38
+Black,105,Lee County,121,8618,0.0372,0.38
+Asian or Pacific Islander,089,Henry County,37,19769,0.005,0.37
+Asian or Pacific Islander,083,Halifax County,37,14364,0.007,0.37
+Asian or Pacific Islander,137,Orange County,44,11322,0.0108,0.36
+Asian or Pacific Islander,595,Emporia city,100,27636,0.0101,0.36
+Asian or Pacific Islander,750,Radford city,98,14128,0.0208,0.33
+Asian or Pacific Islander,031,Campbell County,59,16406,0.0108,0.33
+Asian or Pacific Islander,103,Lancaster County,9,3623,0.0078,0.32
+Asian or Pacific Islander,179,Stafford County,664,58251,0.0359,0.32
+Asian or Pacific Islander,510,Alexandria city,755,36975,0.0651,0.31
+Hispanic,790,Staunton city,119,11521,0.0331,0.31
+Asian or Pacific Islander,099,King George County,58,11555,0.0161,0.31
+Asian or Pacific Islander,195,Wise County,26,19831,0.0042,0.31
+Asian or Pacific Islander,167,Russell County,8,10872,0.0024,0.31
+Asian or Pacific Islander,013,Arlington County,3302,99927,0.1095,0.3
+Black,027,Buchanan County,82,8271,0.0338,0.29
+Asian or Pacific Islander,193,Westmoreland County,21,8037,0.0089,0.29
+Hispanic,800,Suffolk city,463,34262,0.0467,0.29
+Hispanic,810,Virginia Beach city,4444,181610,0.085,0.29
+Asian or Pacific Islander,530,Buena Vista city,6,3264,0.0066,0.28
+Asian or Pacific Islander,059,Fairfax County,17974,323016,0.2014,0.28
+Asian or Pacific Islander,775,Salem city,76,14877,0.0188,0.27
+Asian or Pacific Islander,115,Mathews County,6,2569,0.0087,0.27
+Asian or Pacific Islander,027,Buchanan County,9,8271,0.0044,0.25
+Asian or Pacific Islander,161,Roanoke County,338,40442,0.0348,0.24
+Asian or Pacific Islander,630,Fredericksburg city,186,25355,0.0308,0.24
+Asian or Pacific Islander,740,Portsmouth city,164,46708,0.0149,0.24
+Asian or Pacific Islander,041,Chesterfield County,1144,133859,0.0367,0.23
+Asian or Pacific Islander,830,Williamsburg city,401,28661,0.0605,0.23
+Hispanic,740,Portsmouth city,506,46708,0.047,0.23
+Hispanic,013,Arlington County,3494,99927,0.156,0.22
+Asian or Pacific Islander,810,Virginia Beach city,2948,181610,0.0739,0.22
+Hispanic,630,Fredericksburg city,598,25355,0.1092,0.22
+Asian or Pacific Islander,153,Prince William County,3236,159875,0.0945,0.21
+Asian or Pacific Islander,003,Albemarle County,366,31008,0.0553,0.21
+Hispanic,153,Prince William County,8228,159875,0.2449,0.21
+Asian or Pacific Islander,199,York County,380,29868,0.0607,0.21
+Hispanic,820,Waynesboro city,171,9528,0.0869,0.21
+Asian or Pacific Islander,147,Prince Edward County,38,13253,0.0139,0.21
+Hispanic,760,Richmond city,537,36841,0.0729,0.2
+Hispanic,620,Franklin city,20,3734,0.0269,0.2
+Hispanic,710,Norfolk city,1022,62031,0.0846,0.19
+Asian or Pacific Islander,840,Winchester city,117,22185,0.0272,0.19
+Asian or Pacific Islander,550,Chesapeake city,670,99418,0.035,0.19
+Asian or Pacific Islander,185,Tazewell County,28,22392,0.0065,0.19
+Asian or Pacific Islander,087,Henrico County,2459,140404,0.0911,0.19
+Hispanic,680,Lynchburg city,257,30458,0.0451,0.19
+Asian or Pacific Islander,065,Fluvanna County,10,5677,0.0094,0.19
+Asian or Pacific Islander,770,Roanoke city,341,52287,0.0356,0.18
+Asian or Pacific Islander,107,Loudoun County,2813,76631,0.2035,0.18
+Asian or Pacific Islander,710,Norfolk city,416,62031,0.0384,0.17
+Asian or Pacific Islander,540,Charlottesville city,239,19324,0.0721,0.17
+Asian or Pacific Islander,760,Richmond city,145,36841,0.0233,0.17
+Hispanic,610,Falls Church city,135,7537,0.1063,0.17
+Asian or Pacific Islander,680,Lynchburg city,136,30458,0.0269,0.17
+Asian or Pacific Islander,800,Suffolk city,107,34262,0.019,0.16
+Asian or Pacific Islander,570,Colonial Heights city,147,25903,0.0382,0.15
+Asian or Pacific Islander,700,Newport News city,135,27686,0.033,0.15
+Asian or Pacific Islander,051,Dickenson County,2,6077,0.0022,0.15
+Asian or Pacific Islander,820,Waynesboro city,23,9528,0.0169,0.14
+Asian or Pacific Islander,790,Staunton city,21,11521,0.0136,0.13
+Asian or Pacific Islander,590,Danville city,48,26722,0.0138,0.13
+Hispanic,510,Alexandria city,799,36975,0.1661,0.13
+Asian or Pacific Islander,620,Franklin city,4,3734,0.0097,0.11
+Asian or Pacific Islander,690,Martinsville city,12,9772,0.0122,0.1
+Asian or Pacific Islander,105,Lee County,2,8618,0.003,0.08
+Hispanic,700,Newport News city,196,27686,0.0942,0.08
+Asian or Pacific Islander,077,Grayson County,1,6881,0.0021,0.07
+Asian or Pacific Islander,640,Galax city,2,6588,0.0077,0.04
